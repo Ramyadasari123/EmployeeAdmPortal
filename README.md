@@ -26,7 +26,7 @@ This project focuses on building **RESTful APIs** to manage employee data effici
 * Displays all available endpoints with request & response formats
 * Allows executing API methods without frontend
 
-👉 Swagger automatically generates API documentation and enables testing from browser ([DEV Community][1])
+👉 Swagger automatically generates API documentation and enables testing from browser 
 
 ---
 
